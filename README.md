@@ -1,4 +1,4 @@
-#Visualisation et régression linéaire sur un dataset
+# Visualisation et régression linéaire sur un dataset
 
 Régression linéaire pour prédire la génération d'électricité d'une éolienne
 
