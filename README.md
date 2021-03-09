@@ -1,3 +1,5 @@
+#Visualisation et régression linéaire sur un dataset
+
 Régression linéaire pour prédire la génération d'électricité d'une éolienne
 
 Choisir un thème (medecine, sport, musique, …)
@@ -14,4 +16,3 @@ Utiliser le TP intro stats pour trouver le meilleur predicteur (ici une fonction
 
 Evaluer la qualité du predicteur en calculant son RMSE (Root Mean Squared Error)
 
-# VideoGamesVisualisation
