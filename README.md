@@ -1,4 +1,6 @@
 # Visualisation et régression linéaire sur un dataset
+https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings
+
 
 Régression linéaire pour prédire la génération d'électricité d'une éolienne
 
